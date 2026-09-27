@@ -6,7 +6,7 @@
 **Incident window:** August 23, 2026, 18:00:00–18:40:00 UTC  
 **Assessment:** MySQL service compromise confirmed; compromise of the underlying Windows host was not established by the available telemetry.
 
-[View the detailed investigation, KQL queries, and evidence screenshots](https://github.com/Jabcode101/Threat-Hunting-Scenario-Tor/blob/main/threat-hunting-scenario-tor-event-creation.md)
+[View the detailed investigation, KQL queries, and evidence screenshots](https://github.com/Jabcode101/Threat-Hunting-Scenario-MySQL-Database-Compromise/blob/main/Detailed%20Threat%20Hunt%20MySQL.md)
 
 ## Platforms and Languages Leveraged
 
@@ -125,7 +125,7 @@ The investigation confirmed unauthorized activity against the MySQL service asso
 
 The companion report contains the complete KQL for **Evidence 1–5, 6A, and 6B**, alongside the original embedded GitHub screenshot references:
 
-**[Open the detailed MySQL threat hunt report](https://github.com/Jabcode101/Threat-Hunting-Scenario-Tor/blob/main/threat-hunting-scenario-tor-event-creation.md)**
+**[Open the detailed MySQL threat hunt report](https://github.com/Jabcode101/Threat-Hunting-Scenario-MySQL-Database-Compromise/blob/main/Detailed%20Threat%20Hunt%20MySQL.md)**
 
 ## Author
 
